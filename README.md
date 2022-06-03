@@ -2,7 +2,7 @@
 
 ## Description
 
-This application 
+This application uses Javascript to create games.
 
 ## Usage
 
